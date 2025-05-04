@@ -1,0 +1,81 @@
+{
+  "scientists": [
+    {
+      "id": "1",
+      "name": "Sigmund Freud",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg/500px-Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg",
+      "categories": ["Rüya Yorumlama", "Bilinçaltı Keşfi"],
+      "description": "Sigmund Freud (Almanca telaffuz: [ˈziːkmʊnt ˈfʁɔʏt]; 6 Mayıs 1856-23 Eylül 1939) veya doğum adı ile Sigismund Schlomo Freud, psikolojinin en önemli alt dallarından biri olan psikanaliz biliminin kurucusu olan Avusturya doğumlu Yahudi nörolog. Psikanaliz, hasta ile psikanalist arasında gerçekleşen diyalog yoluyla psikopatolojik vakaları tedavi etmekte kullanılan klinik yöntemidir.[3] Hastaların zihinsel süreçlerinin bilinç dışı unsurlarla olan bağlantılarını ortaya çıkarmaya çalışır. Freud'a göre, bilinç dışına itimler yaşantıların kendileri değil, anıları üzerinde gerçekleşirler. Ancak söz konusu istekler gerçeğe dönüştürüldüğünde, daha doğrusu doyurulduğunda karşılaşılacak üzüntü ve pişmanlık duygusundan kaçınılmaktadır.
+
+Freud, Avusturya İmparatorluğu'nun Moravya'ya bağlı Freiberg kasabasında Aşkenaz Yahudisi bir ailenin çocuğu olarak dünyaya geldi. 1881'de Viyana Üniversitesinden tıp doktoru sıfatıyla mezun oldu.[4][5] 1885'te habilitasyonunu tamamladıktan sonra nöropatoloji doçenti olarak atandı ve 1902'de profesör oldu.[6] Hayatının neredeyse tamamını Viyana'da geçiren Freud, 1886'da klinik çalışmalarını da bu şehirde başlattı. 1938'de Nazi tehdidi yüzünden Avusturya'yı terk etti ve 1939'da İngiltere'de sürgündeyken hayatını kaybetti.
+
+Psikanaliz kuramını oluştururken Freud, serbest çağrışımın kullanılması ve çözümlemelerde aktarım sürecinin anahtar olarak ele alınması gibi tedavi yöntemleri geliştirdi. Cinselliği yeniden tanımlarken çocukluk süreçlerini de buna dâhil ettiği Oidipus kompleksi kavramını psikanalitiğin merkezine yerleştirdi.[7] Rüyaları arzu tatmin yeri kabul ederek hastalarının semptom oluşumlarına ve bastırılmış duygularına dair bulguları rüyaları inceleyerek elde etti. Bu durumu temel aldığı bilinç dışı teorisinde id, ego ve süperegoyu içeren bir psişik yapı modeli ortaya koydu.[8] Bunların yanı sıra Freud, zihinsel süreçleri etkileyen ve erotik bağlar kuran cinselleştirilmiş dürtü enerjisi libidonun tanımını yaptı. Ortaya koyduğu bir diğer kavram olan ölüm içgüdüsünü ise zorlayıcı tekrarlama, nefret, saldırganlık ve nevrotik suçluluğun kaynağı olarak açıkladı.[9] Kariyerinin ilerleyen yıllarındaki çalışmalarında ise din ve kültüre dair geniş kapsamlı yorumlar ve eleştiriler yayımladı.
+
+Teşhis ve klinik uygulamalarda kullanımı genel olarak azalan psikanaliz; psikoloji, psikiyatri ve psikoterapi ile beşerî bilimlerin genelinde etkili olmaya devam etmektedir. Hâlen süren etkisi sebebiyle tedavideki işlevi, bilimsel konumu ve feminizme katkı sağladığı ya da zarar verdiği gibi konularda kapsamlı ve yüksek sesli tartışmalara yol açmaktadır.[10] Bununla birlikte Freud'un çalışmaları çağdaş Batı felsefesini ve popüler kültürünü etkiledi. 1940'ta kaleme aldığı mersiyede W. H. Auden, Freud'un "farklı yaşamları etkileyen bütün bir düşünce iklimi" yarattığını ifade etti.[11]
+
+Hayatı
+Orta hâlli bir Yahudi yün tüccarının ikinci evliliğinden dünyaya geldi. Ekonomik bunalımdan dolayı ailesi Viyana'ya yerleşmek zorunda kaldığında, Freud henüz 4 yaşındaydı. 1938 yılına kadar burada yaşadı.
+
+Lisede Latince, Fransızca ve İngilizce öğrenirken kendi çabalarıyla İbranice, İspanyolca ve İtalyanca öğrendi. Başarılı bir öğrenciydi. Goethe'nın yapıtlarından etkilenerek, başlangıçta istemediği halde, tıp okumaya karar verdi.
+
+Üniversite yıllarında Yahudi düşmanlığıyla karşılaştı, okuldaki arkadaş çevresinden dışlandı. 1876 yılında fizyolojist Brücke'nin laboratuvarına girdi, burada anatomopatoloji ve insan sinir sistemi üzerine araştırmalar yaptı. 1881'de tıp öğrenimini bitirdi. 1883'te dönemin ünlü beyin anatomisi ve nöropatoloji uzmanı Dr. Theodor Meynert'in yönetiminde psikiyatri kliniğinde asistan olarak çalışmaya başladı. 1884 yılında kokain üzerine bir inceleme yapmakla görevlendirildi. 1884'te kokainin analjezik özelliklerini keşfetti, anestezik niteliklerini ise sezinledi. (Yaşamım ve Psikanaliz adlı yapıtında kokainin anestezik niteliklerini aslında bildiğini, yalnız tıp çalışmalarını bıraktığından dolayı bunların başkaları tarafından ortaya çıkarıldığını ileri sürer.)
+
+Aldığı bir bursla 1885'te Paris'e gitti, Salpêtriê Hastanesinde, Jean Martin Charcot'nun yanında staja başladı. Burada histerinin belirtilerini, hipnotizma ve telkinin etkilerini gözlemledi. Charcot'dan çok etkilendi (Yaşamım ve Psikanaliz 'de Charcot'ya ne kadar düşkün olduğu görülür). Charcot'nun konferanslarını Almancaya çevirdi ve 1886'da yayımladı.
+
+1886'da Paris'ten ayrılarak Berlin'e gitti. Burada çocuk nöropatolojisiyle ilgilendi. Viyana'ya dönerek özel hekimliğe başladı. Ekim 1886'da 4 yıldır nişanlı olduğu Martha Bernays ile evlendi. Sinir hastalıkları ve histeri şikayetiyle kendisine başvuranlar üzerinde dönemin ünlü tedavi yöntemlerini, elektroterapi ve hipnotizmayı uyguladı. 1887'de Dr. Bernheim'in Telkin ve Telkinin Tedavideki Uygulamaları Üstüne adlı kitabını çevirdi.
+
+Elizabet von R. adındaki bir kadın hasta kendisini serbest çağrışım yöntemine zorlayınca hipnozdan vazgeçti. 1892-1895 yılları arasında Charcot'nun Salı Günü Dersleri adlı kitabının çevirisini, savunma psikonevrozları üzerine bir makaleyi ve saplantılar ve fobiler üzerine başka bir makaleyi Breuer ile ortaklaşa hazırladı. Ancak tıp çevrelerince Histeri Üzerine İncelemeler hoş karşılanmadı. Bu yapıtta psikanalizin temel ilkelerine rastlanır.
+
+1896 yılında babasının ölümü üzerine derin bir bunalıma girdi ve sistematik olarak kendini çözümlemeye başladı. Yine aynı yıl Breuer'le nevrozların cinsel açıdan açıklanması konusunda ters düşerek yollarını ayırdı. Histerinin cinsel etiyolojisi üzerine verdiği bir konferans skandala yol açtı. Bu dönemde W. Fliess'le yazışmaları, özçözümleme süreci, hayatı üzerinde önemli etkiler yarattı. (Bu yazışmaları Freud'un ölümünden sonra eşi ve kızı tarafından kamuoyuna duyurulmuştur. Freud psikanalize özel hayatını karıştırmak istemediğinden, kişisel kayıtlar bırakmamış, birçok yazışma ve mektubunu ölümünden önce yakmıştır.) Hayatının 10 yıl süren bu döneminde, Freud hem yandaş hem öğrenci bakımından yalnız kaldı. Kendini hastaların tedavisine ve psikanalizin yaratılmasına yoğunlaştırdı. Bu sürecin sonucu olarak 1897'de Oedipus Kompleksi, 1900'de Düşlerin Yorumu (iki cilt) adlı eserler ortaya çıktı.
+
+1908'de Viyana Psikanaliz Derneği kuruldu. Bu olay, Freud için bir dönüm noktasıydı, Yaşamım ve Psikanaliz kitabında buna büyük yer verdi. Ancak bu tarihten önce bile Freud'un çevresinde çözümlemenin giderek kurumlaştığı görülür. 1902'den sonra "Çarşamba Günleri Psikoloji Derneği" adı altında başta P. Federn, O. Rank, W. Stekel ve Alfred Adler olmak üzere, Freud'un ilk yandaşları bir araya toplandılar. 1904'te E. Bleuer'le yazışmaya başladı. 1907'de Bleuer'in asistanı Carl Gustav Jung tarafından ziyaret edilir. Jung aynı yıl Zürih'te Freud Derneği'ni kurdu. Bu Freud için büyük bir başarıydı, zira psikanaliz artık ülke sınırlarının dışına çıkmıştı. Takip eden yıllarda Jung, 1. Psikanaliz Kongresi'ne katıldı ve psikanaliz üzerine konferanslar vermek üzere Freud ile birlikte ABD'ye yolculuk etti. Freud, 1910-1920 yıllarında Psikanaliz Üzerine, Bir Paranoya Vakası Özyaşam Öyküsü Üzerine Psikoanalitik Gözlemler: Başkan Screber, Totem ve Tabu, Narsizmin İncelenmesine Giriş, Yas ve Melankoli adlı eserleri yayımladı. Amerikan sineması (Hollywood) Freud'u ve psikanalizi çok sevdi. Samuel Goldwyn 1924 sonbaharında Viyana'ya giderek Freud'u buldu. Tasarladığı şey, Hollywood'da “psikoanaliz çalışmalarını ticarileştirmesi ve beyazperdeye uygun bir öykü yazması” için yüz bin dolar önermekti. Freud bu teklifi reddetti. Ancak densiz ve çıkarcı Hollywood patronları psikanaliz konulu ya da “delilik” üzerine yazılan senaryolarla büyük paralar kazandılar. Sinema endüstrisinde su gibi akan paranın büyük bir miktarı, Freud'un cebine olmasa bile Freudcu ceplere aktı.[12]
+
+1923'te kendisine üst çene ve damak kanseri tanısı kondu. İzleyen yıllarda 33 kez ameliyat oldu. Sürekli protez takması gerektiğinden dolayı uzun yıllar konuşma ve yemek yeme sıkıntısı çekti. 1938'de Naziler'in Viyana'ya girmesiyle birlikte en küçük çocuğu Anna ile birlikte Avusturya'yı terk etmek zorunda kalarak Londra'ya yerleşti. Ölümüne dek tedavi ve çalışmalarına burada devam etti.
+
+Freud, prensipleri gereği kişisel hiçbir özel belge, anı defteri, mektup bırakmamış, hepsini yakmıştır. Bu nedenle, Freud'a dair ilk ve en kapsamlı bilgiler ilk olarak yakın dostu İngiliz psikiyatr Ernest Jones'un 1953'te yayımlanan üç ciltlik Sigmund Freud'un Yaşamı ve Yapıtları adlı kitabıyla ortaya çıkarıldı.
+
+Freud'un psikanalitik açıdan öne sürdüğü yıkımlar doğum, cinsellik, kastrasyon, Oidipus kompleksi, narsisizm, yas, ölüm dürtüsü gibi birçok biçim alacak ve çeşitli adlarla anılacaktır.[13] Freud'un çalışmalarındaki başlangıç noktası ancak sansürlenmiş geçmişle yaşanabileceğidir; modern insanların kendi geçmişlerinin mağdurları oldukları kadar mimarları da olduğunu ileri sürerken “iyileşmek isteriz ama acı çekmeye bayılırız; hazzın kaynağı acının da kaynağıdır, eğer biri bizi tatmin edebiliyorsa hüsrana da uğratabilir” görüşünü vurgulamıştır. Rekabet ve hırs, kayıp ve sefaletle ayrılmaz bir biçimde bağlıdır. Hırsın nedenleri ve gerekçeleri çocukluğun felaketlerindedir. Modern birey hem çevresinden hem de arzularından gelen uyaranlara aşırı derecede maruz kalmıştır ve kendisinden ya da diğer insanlardan soyutlanmadan, kendisine ya da diğer insanlara yabancılaşmadan yalıtılmak için durmadan savaşmaktadır. Çocuk, yeni doğan kardeşini işgalci ve rakip olarak etiketler; yalnızca emzirilme dönemindeki bir bebek değil, annenin ilgisinin yoğunlaştığı bir nesnedir. Tahttan indirildiğini, elindekilerin çalındığını, haklarının zarar gördüğünü hisseder. Kardeşine nefret duyar, sadakatsiz anneye kin besler. Freud, kardeşine karşı gelişen bu tür duygularını (kayıplarını) iyileştirme yolu olarak “öğrenmeyi (eğitimi)” seçerken, babasının kendisi için söylediği “bu çocuk hiçbir zaman adam olmayacak” sözlerini “hırsına korkunç bir hakaret olarak” değerlendirmiştir. Babasıyla ilgili düş kırıklığı onu “entelektüel bir baba” arayışına yönelttiği görülür; çevresindeki erkek dostlarında aradığı özellik “babasına benzememeleri” idi. İnsanlar çocuk sahibi olduklarında kendi çocukluklarını ve kendi anne babalarından gördüklerini ya da görmedikleri anne babalığı anımsarlar.[13]
+
+Freud'un tıp okuma kararındaki en etkili etmen “bilgi açlığı” idi; öğrenmeyi ve öğretmeyi, çoğu zaman yardım ve tedavi etmekten çok daha keyifli buluyordu. En çok sevdiği ilkesi ise zorunluluğu zevke dönüştürmekti. Freud'a göre, modern insanlar, yaradılış ve kültür yapıları nedeniyle ütopyacıdır; ne kadar çok acı çekerlerse çeksinler hep daha iyi bir geleceğe inanarak yaşarlar. Oysa, uygarlaşma süreci ne kadar olanak tanıyıcı olsa da her zaman baskıcıdır. Bireyin devlet için kabul edilemez parçalarını ve versiyonlarını seçip ayırır, bireyi kendine uyduramadığı yanlarıyla çaresiz ortada bırakır. Geçmişten geleceği kurtarmak mümkünse eğer, bunun nasıl bir gelecek olduğu bilinmez; modern insanlar kendi gelişimleriyle ilgili çelişik duyguları olan tek hayvandır, büyümeye can atarlar ancak büyümekten nefret de ederler.",
+      "keyConcepts": ["İd, Ego, Süperego", "..."]
+    },
+    {
+      "id": "2",
+      "name": "Carl Jung",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CGJung.jpg/500px-CGJung.jpg",
+      "categories": ["Rüya Yorumlama", "Bilinçaltı Keşfi"],
+      "description": "Carl Gustav Jung (26 Temmuz 1875 Kesswil, Thurgau, İsviçre - 6 Haziran 1961 Küsnacht, Zürih, İsviçre), İsviçreli psikiyatr. Analitik psikolojinin kurucusudur. Derinlik psikolojisinin Sigmund Freud ve Alfred Adler ile beraber üç büyük kurucusundan birisidir.
+
+Hayatı
+Basel Üniversitesi'nde tıp profesörü olan büyükbabasının adını taşıyan Carl Gustav Jung İsviçreli bir papazın oğludur. 1895 yılında Basel'de tıp eğitimi almaya başladı ve 1900 yılında Eugen Bleuler'in asistanı olarak Burghölzli'de psikiyatrist olarak hizmet verdi. Doktorasını 1902 yılında tamamladı. Konu okült (gizli, görünmeyen) fenomenler (etkiler) ve onların Psikoloji ve Patolojiyle bağlantıları idi. Paris'te 6 ay Pierre Janet ile bilgilerini derinleştirdi. 1903 yılında Emma Rauschenbach ile evlendi. 36 yaşında Uluslararası Psikanaliz Birliği'nin ilk başkanı oldu. Psikolojik analizlerinde astrolojiden de yararlanan Carl Gustav Jung, Sigmund Freud ile beraber çalıştığı toplumsal bilinçaltı kavramı ile de tanınır.
+
+
+Carl Gustav Jung'ın evi
+Görüşleri
+Carl Gustav Jung sadece psikoterapi bilim dalını değil, aynı zamanda Psikoloji, Teoloji, Etnografi, Edebiyat ve güzel sanatları da etkiledi. Psikoloji bilim dalında kendisi tarafından yaratılan kavramlar geniş ölçüde kabul gördü. Örneğin; kompleks, içedönük ve dışadönük, gölge, arketip (enerjikompleksler), kolektif (toplumsal) bilinçdışı, anima ve animus.",
+      "keyConcepts": ["Arketipler", "..."]
+    }
+ 
+  ],
+  "mythologies": [
+    {
+      "id": "myth-greek",
+      "name": "Yunan Mitolojisi",
+      "imageUrl": "URL/to/greek-symbol.png",
+      "mythologyKey": "Greek",
+      "tagline": "Kahramanlar...",
+      "description": "Antik Yunan'da rüyalar...",
+      "relatedFigures": ["Hypnos", "..."]
+    },
+    {
+      "id": "myth-egyptian",
+      "name": "Mısır Mitolojisi",
+      "imageUrl": "URL/to/egyptian-symbol.png",
+      "mythologyKey": "Egyptian",
+      "tagline": "Öteki dünya...",
+      "description": "Eski Mısır'da rüyalar...",
+      "relatedFigures": ["Thoth", "..."]
+    }
+ 
+  ]
+}
