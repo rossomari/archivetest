@@ -3,40 +3,172 @@
     {
       "id": "1",
       "name": "Sigmund Freud",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg/500px-Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg",
-      "categories": ["Rüya Yorumlama", "Bilinçaltı Keşfi"],
-      "description": "1. Sigmund Freud (1856-1939): Psikanalizin kurucusu. Rüyaları bilinçaltına giden kraliyet yolu olarak görmüş ve rüyaların bastırılmış arzuların sembolik ifadeleri olduğunu savunmuştur. En bilinen eseri: Rüyaların Yorumu (The Interpretation of Dreams)]",
-      "keyConcepts": ["İd, Ego, Süperego", "..."]
+      "imageUrl": "https://via.placeholder.com/150/808080/FFFFFF?text=Freud",
+      "categories": ["Dream Interpretation", "Subconscious Exploration"],
+      "description": "Austrian neurologist and the founder of psychoanalysis.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Sigmund_Freud" // Example actual URL
     },
     {
       "id": "2",
       "name": "Carl Jung",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CGJung.jpg/500px-CGJung.jpg",
-      "categories": ["Rüya Yorumlama", "Bilinçaltı Keşfi"],
-      "description": "Analitik psikolojinin kurucusu. Rüyaların sadece bastırılmış arzuları değil, aynı zamanda kişisel ve kolektif bilinçdışının bir ifadesi olduğunu savunmuştur. Arketip kavramını rüya analizine dahil etmiştir. En bilinen eseri: İnsan ve Sembolleri (Man and His Symbols)",
-      "keyConcepts": ["Arketipler", "..."]
+      "imageUrl": "https://via.placeholder.com/150/808080/FFFFFF?text=Jung",
+      "categories": ["Dream Interpretation", "Subconscious Exploration"],
+      "description": "Swiss psychiatrist and psychoanalyst who founded analytical psychology.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Carl_Jung" // Example actual URL
+    },
+    {
+      "id": "3",
+      "name": "Alfred Adler",
+      "imageUrl": "https://via.placeholder.com/150/808080/FFFFFF?text=Adler",
+      "categories": ["Dream Interpretation"],
+      "description": "Austrian medical doctor, psychotherapist, and founder of the school of individual psychology.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Alfred_Adler" // Example actual URL
+    },
+    {
+      "id": "4",
+      "name": "Calvin S. Hall",
+      "imageUrl": "https://via.placeholder.com/150/808080/FFFFFF?text=Hall",
+      "categories": ["Dream Interpretation"],
+      "description": "American psychologist known for his work on dream content analysis.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Calvin_S._Hall" // Example actual URL (Check if exists)
+    },
+    {
+      "id": "5",
+      "name": "Ann Faraday",
+      "imageUrl": "https://via.placeholder.com/150/808080/FFFFFF?text=Faraday",
+      "categories": ["Dream Interpretation"],
+      "description": "British psychologist and author known for popularizing dream interpretation techniques.",
+      "bioUrl": "#" // Placeholder - Needs real URL
+    },
+    {
+      "id": "6",
+      "name": "Patricia Garfield",
+      "imageUrl": "https://via.placeholder.com/150/808080/FFFFFF?text=Garfield",
+      "categories": ["Dream Interpretation"],
+      "description": "American psychologist and author, pioneer in the study of lucid dreaming.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Patricia_Garfield" // Example actual URL
+    },
+    {
+      "id": "7",
+      "name": "Jeremy Taylor",
+      "imageUrl": "https://via.placeholder.com/150/808080/FFFFFF?text=Taylor",
+      "categories": ["Dream Interpretation"],
+      "description": "American author and dream worker known for projective dream work.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Jeremy_Taylor_(dream_worker)" // Example actual URL
+    },
+    {
+      "id": "8",
+      "name": "Ibn Sirin",
+      "imageUrl": "https://via.placeholder.com/150/808080/FFFFFF?text=Sirin",
+      "categories": ["Dream Interpretation"],
+      "description": "Early Islamic scholar renowned for his work on dream interpretation.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Muhammad_ibn_Sirin" // Example actual URL
+    },
+    {
+      "id": "9",
+      "name": "Artemidorus",
+      "imageUrl": "https://via.placeholder.com/150/808080/FFFFFF?text=Artemidorus",
+      "categories": ["Dream Interpretation"],
+      "description": "Ancient Greek professional diviner and dream interpreter.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Artemidorus" // Example actual URL
+    },
+    {
+      "id": "10",
+      "name": "Marie-Louise von Franz",
+      "imageUrl": "https://via.placeholder.com/150/808080/FFFFFF?text=vonFranz",
+      "categories": ["Dream Interpretation"],
+      "description": "Swiss Jungian psychologist and scholar, known for interpretations of fairy tales.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Marie-Louise_von_Franz" // Example actual URL
+    },
+    {
+      "id": "11",
+      "name": "Pierre Janet",
+      "imageUrl": "https://via.placeholder.com/150/808080/FFFFFF?text=Janet",
+      "categories": ["Subconscious Exploration"],
+      "description": "French psychologist, philosopher and psychotherapist in the field of dissociation and traumatic memory.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Pierre_Janet" // Example actual URL
+    },
+    {
+      "id": "12",
+      "name": "Erich Fromm",
+      "imageUrl": "https://via.placeholder.com/150/808080/FFFFFF?text=Fromm",
+      "categories": ["Subconscious Exploration"],
+      "description": "German social psychologist, psychoanalyst, sociologist, and humanistic philosopher.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Erich_Fromm" // Example actual URL
+    },
+    {
+      "id": "13",
+      "name": "William James",
+      "imageUrl": "https://via.placeholder.com/150/808080/FFFFFF?text=James",
+      "categories": ["Subconscious Exploration"],
+      "description": "American philosopher, historian, and psychologist, and the first educator to offer a psychology course in the United States.",
+      "bioUrl": "https://en.wikipedia.org/wiki/William_James" // Example actual URL
+    },
+    {
+      "id": "14",
+      "name": "Milton H. Erickson",
+      "imageUrl": "https://via.placeholder.com/150/808080/FFFFFF?text=Erickson",
+      "categories": ["Subconscious Exploration"],
+      "description": "American psychiatrist and psychologist specializing in medical hypnosis and family therapy.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Milton_H._Erickson" // Example actual URL
+    },
+    {
+      "id": "15",
+      "name": "Karen Horney",
+      "imageUrl": "https://via.placeholder.com/150/808080/FFFFFF?text=Horney",
+      "categories": ["Subconscious Exploration"],
+      "description": "German psychoanalyst who practiced in the United States during her later career.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Karen_Horney" // Example actual URL
+    },
+    {
+      "id": "16",
+      "name": "Otto Rank",
+      "imageUrl": "https://via.placeholder.com/150/808080/FFFFFF?text=Rank",
+      "categories": ["Subconscious Exploration"],
+      "description": "Austrian psychoanalyst, writer, and teacher.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Otto_Rank" // Example actual URL
     }
- 
   ],
   "mythologies": [
     {
       "id": "myth-greek",
-      "name": "Yunan Mitolojisi",
-      "imageUrl": "URL/to/greek-symbol.png",
+      "name": "Greek Mythology",
+      "imageUrl": "https://via.placeholder.com/150/3498DB/FFFFFF?text=Greek",
+      "tagline": "Gods, heroes, and rituals of the ancient Greeks.",
       "mythologyKey": "Greek",
-      "tagline": "Kahramanlar...",
-      "description": "Antik Yunan'da rüyalar...",
-      "relatedFigures": ["Hypnos", "..."]
+      "infoUrl": "https://en.wikipedia.org/wiki/Greek_mythology" // Example actual URL
+    },
+    {
+      "id": "myth-roman",
+      "name": "Roman Mythology",
+      "imageUrl": "https://via.placeholder.com/150/E74C3C/FFFFFF?text=Roman",
+      "tagline": "Traditional stories pertaining to ancient Rome's legendary origins.",
+      "mythologyKey": "Roman",
+      "infoUrl": "https://en.wikipedia.org/wiki/Roman_mythology" // Example actual URL
     },
     {
       "id": "myth-egyptian",
-      "name": "Mısır Mitolojisi",
-      "imageUrl": "URL/to/egyptian-symbol.png",
+      "name": "Egyptian Mythology",
+      "imageUrl": "https://via.placeholder.com/150/F1C40F/000000?text=Egyptian",
+      "tagline": "Collection of myths from ancient Egypt.",
       "mythologyKey": "Egyptian",
-      "tagline": "Öteki dünya...",
-      "description": "Eski Mısır'da rüyalar...",
-      "relatedFigures": ["Thoth", "..."]
+      "infoUrl": "https://en.wikipedia.org/wiki/Egyptian_mythology" // Example actual URL
+    },
+    {
+      "id": "myth-norse",
+      "name": "Norse Mythology",
+      "imageUrl": "https://via.placeholder.com/150/2ECC71/FFFFFF?text=Norse",
+      "tagline": "Myths of the North Germanic peoples.",
+      "mythologyKey": "Norse",
+      "infoUrl": "https://en.wikipedia.org/wiki/Norse_mythology" // Example actual URL
+    },
+    {
+      "id": "myth-turkish",
+      "name": "Turkic Mythology", // More accurate term than Turkish
+      "imageUrl": "https://via.placeholder.com/150/9B59B6/FFFFFF?text=Turkic",
+      "tagline": "Myths and legends associated with Turkic peoples.",
+      "mythologyKey": "Turkish", // Kept as requested, but 'Turkic' might be better key if represents broader group
+      "infoUrl": "https://en.wikipedia.org/wiki/Turkic_mythology" // Example actual URL
     }
- 
   ]
 }
