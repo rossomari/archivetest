@@ -134,41 +134,36 @@
       "id": "myth-greek",
       "name": "Greek Mythology",
       "imageUrl": "https://via.placeholder.com/150/3498DB/FFFFFF?text=Greek",
-      "tagline": "Gods, heroes, and rituals of the ancient Greeks.",
       "mythologyKey": "Greek",
-      "infoUrl": "https://en.wikipedia.org/wiki/Greek_mythology" 
+      "infoUrl": "Greek mythology features the Oneiroi, winged dream spirits who were the children of Nyx (Night) and siblings of Hypnos (Sleep). Morpheus, who could appear in human form in dreams, was their leader. Greeks believed dreams could be prophetic messages from the gods or deceptive illusions, with true dreams passing through gates of horn and false dreams through gates of ivory. Dream interpretation was practiced at healing sanctuaries called Asclepeions, where dream incubation rituals helped seekers receive divine guidance for healing and spiritual insight." 
     },
     {
       "id": "myth-roman",
       "name": "Roman Mythology",
       "imageUrl": "https://via.placeholder.com/150/E74C3C/FFFFFF?text=Roman",
-      "tagline": "Traditional stories pertaining to ancient Rome's legendary origins.",
       "mythologyKey": "Roman",
-      "infoUrl": "https://en.wikipedia.org/wiki/Roman_mythology" 
+      "infoUrl": "Roman dream theology centered around Somnus (Sleep), who fathered the Somnia or \"dream shapes.\" His most notable sons were Morpheus (who shaped human forms in dreams), Phobetor/Icelos (who created animal forms), and Phantasos (who crafted dreams of inanimate objects). Romans practiced dream incubation at temples and employed professional dream interpreters called coniectores. Dreams were considered potential messages from the gods or omens of future events, with interpretation manuals guiding Romans in understanding their subconscious visions and their implications for waking life."  
     },
     {
       "id": "myth-egyptian",
       "name": "Egyptian Mythology",
       "imageUrl": "https://via.placeholder.com/150/F1C40F/000000?text=Egyptian",
-      "tagline": "Collection of myths from ancient Egypt.",
       "mythologyKey": "Egyptian",
-      "infoUrl": "https://en.wikipedia.org/wiki/Egyptian_mythology"  
+      "infoUrl": "Ancient Egyptians viewed dreams as a liminal space between the world of the living and the divine realm. While they had no specific dream deity, gods like Serapis were known to send healing visions during temple sleep rituals. Dream books like the Chester Beatty Papyrus categorized dreams and their meanings, showing their sophisticated approach to interpreting the subconscious. Egyptians believed the ba (soul) could travel during sleep, and dreams could contain messages from the gods or deceased ancestors, offering guidance, warnings, or prophetic visions about future events."
     },
     {
       "id": "myth-norse",
       "name": "Norse Mythology",
       "imageUrl": "https://via.placeholder.com/150/2ECC71/FFFFFF?text=Norse",
-      "tagline": "Myths of the North Germanic peoples.",
       "mythologyKey": "Norse",
-      "infoUrl": "https://en.wikipedia.org/wiki/Norse_mythology"  
+      "infoUrl": "Norse people took dreams seriously as potential glimpses into fate. While they had no specific dream deity, figures like Nótt (Night) and the mysterious Niorun have been associated with dreams in later interpretations. Dreams were classified as either meaningful visions or meaningless \"dream-nonsense.\" Significant dreams often appeared in sagas as prophetic, such as Balder's dream of his own death. Norse shamanic practices incorporated dream-like trance states where practitioners believed they could journey between worlds and communicate with spirits, exploring the deeper layers of consciousness."  
     },
     {
       "id": "myth-turkish",
       "name": "Turkic Mythology",  
       "imageUrl": "https://via.placeholder.com/150/9B59B6/FFFFFF?text=Turkic",
-      "tagline": "Myths and legends associated with Turkic peoples.",
       "mythologyKey": "Turkish",  
-      "infoUrl": "https://en.wikipedia.org/wiki/Turkic_mythology"  
+      "infoUrl": "In Turkish mythology, dreams connected the physical world with the spiritual realm. The goddess Umay was believed to send protective dream spirits to humans. Shamans (kam) used dreams and trance states to communicate with spirits across the three-tiered cosmos (upper world, middle world, and underworld). Fertility goddess Umay was associated with sending dream spirits, while negative dream experiences were often attributed to Basty, a spirit that would sit on sleepers' chests causing nightmares. Dreams played an important role in Turkic shamanic practices as a means of accessing divine knowledge and spiritual guidance."  
     }
   ]
 }
