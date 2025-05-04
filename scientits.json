@@ -3,10 +3,12 @@
     {
       "id": "1",
       "name": "Sigmund Freud",
-      "imageUrl": "https://via.placeholder.com/150/808080/FFFFFF?text=Freud",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg/500px-Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg",
       "categories": ["Dream Interpretation", "Subconscious Exploration"],
       "description": "Austrian neurologist and the founder of psychoanalysis.",
-      "bioUrl": "https://en.wikipedia.org/wiki/Sigmund_Freud" 
+      "bioUrl": "Sigmund Freud was an Austrian neurologist who founded psychoanalysis. Born in Freiberg, Moravia (now part of Czech Republic), Freud developed groundbreaking theories about the unconscious mind and the interpretation of dreams. His seminal work, `The Interpretation of Dreams` (1899), established dreams as `the royal road to the unconscious.`
+Freud proposed that dreams represent wish fulfillment, where repressed desires and unconscious thoughts emerge in disguised forms. He distinguished between dreams' manifest content (what we remember) and latent content (hidden meanings). According to Freud, the mind employs `dream work` mechanisms such as condensation, displacement, and symbolization to transform forbidden wishes into less threatening imagery.
+Throughout his career, Freud analyzed numerous dreams, including his own famous `Irma's injection` dream, to demonstrate how dreams reflect unconscious processes. His dream theory remained central to psychoanalytic practice, though many aspects have been challenged by later research." 
     },
     {
       "id": "2",
