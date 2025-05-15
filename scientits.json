@@ -5,6 +5,7 @@
       "name": "Sigmund Freud",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg/500px-Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg",
       "categories": ["Dream Interpretation", "Subconscious Exploration"],
+      "categoryKeys": ["dream_interpretation_key", "subconscious_exploration_key"],
       "description": "Austrian neurologist and the founder of psychoanalysis.",
       "bioUrl": "Sigmund Freud was an Austrian neurologist who founded psychoanalysis. Born in Freiberg, Moravia (now part of Czech Republic), Freud developed groundbreaking theories about the unconscious mind and the interpretation of dreams. His seminal work, \"The Interpretation of Dreams\" (1899), established dreams as \"the royal road to the unconscious\".\n\nFreud proposed that dreams represent wish fulfillment, where repressed desires and unconscious thoughts emerge in disguised forms. He distinguished between dreams' manifest content (what we remember) and latent content (hidden meanings). According to Freud, the mind employs \"dream work\" mechanisms such as condensation, displacement, and symbolization to transform forbidden wishes into less threatening imagery.\n\nThroughout his career, Freud analyzed numerous dreams, including his own famous \"Irma's injection\" dream, to demonstrate how dreams reflect unconscious processes. His dream theory remained central to psychoanalytic practice, though many aspects have been challenged by later research." 
     },
@@ -13,6 +14,7 @@
       "name": "Carl Jung",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CGJung.jpg/500px-CGJung.jpg",
       "categories": ["Dream Interpretation", "Subconscious Exploration"],
+      "categoryKeys": ["dream_interpretation_key", "subconscious_exploration_key"],
       "description": "Swiss psychiatrist and psychoanalyst who founded analytical psychology.",
       "bioUrl": "Carl Gustav Jung was a Swiss psychiatrist who founded analytical psychology. Initially a close collaborator with Freud, Jung later developed his own theories about the psyche, dreams, and the collective unconscious.\n Unlike Freud, Jung viewed dreams as direct expressions of the unconscious rather than disguised wishes. He believed dreams serve a compensatory function, balancing conscious attitudes with unconscious perspectives. Jung introduced key concepts like archetypes (universal symbolic patterns), the collective unconscious (shared ancestral memories), and individuation (the psychological process of integrating the conscious with the unconscious).\n Jung distinguished between \"little dreams\" (reflecting personal concerns) and \"big dreams\" (containing powerful archetypal images with greater significance). His own dream journal, known as \"The Red Book,\" documented his personal exploration of the unconscious through dreams and active imagination.\nJung's approach to dream interpretation emphasized amplification—exploring associations, cultural meanings, and archetypal significance of dream symbols—rather than reducing dreams to repressed wishes."  
     },
@@ -21,6 +23,7 @@
       "name": "Alfred Adler",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/AlfredAdler.jpg",
       "categories": ["Dream Interpretation"],
+      "categoryKeys": ["dream_interpretation_key"],
       "description": "Austrian medical doctor, psychotherapist, and founder of the school of individual psychology.",
       "bioUrl": "Alfred Adler was an Austrian psychologist and founder of the school of Individual Psychology. Once part of Freud's inner circle, Adler broke away to develop his own psychological approach emphasizing social interest and the striving for superiority to overcome feelings of inferiority.\n Adler's dream theory differed significantly from Freud's. He viewed dreams not as expressions of repressed wishes but as rehearsals for future actions or problem-solving attempts. Dreams, according to Adler, reflect the dreamer's current life challenges and goals, serving to prepare the individual for upcoming situations or decisions.For Adler, dreams reveal the dreamer's lifestyle and core beliefs about themselves and their place in the world. In dream interpretation, he focused less on symbolic meaning and more on how dreams reflected the individual's characteristic patterns of thinking and behaving."  
     },
@@ -29,6 +32,7 @@
       "name": "Calvin S. Hall",
       "imageUrl": "",
       "categories": ["Dream Interpretation"],
+       "categoryKeys": ["dream_interpretation_key"],
       "description": "American psychologist known for his work on dream content analysis.",
       "bioUrl": "Calvin S. Hall was an American psychologist who developed the cognitive theory of dreams. As director of the Institute of Dream Research, Hall collected and analyzed over 50,000 dreams from people of various ages, cultures, and backgrounds.\n Hall's approach, known as content analysis, involved systematically examining dream content for patterns in settings, characters, interactions, emotions, and outcomes. He proposed that dreams reflect the dreamer's \"cognitive system\" —their conceptions of self and others, their problems, conflicts, and concerns.\n Unlike psychoanalytic approaches, Hall's cognitive theory suggested that dreams do not disguise meanings but transparently reflect the dreamer's thoughts, feelings, and personal world. His research significantly advanced scientific dream study by establishing empirical methods for analyzing dream content."  
     },
@@ -37,6 +41,7 @@
       "name": "Ann Faraday",
       "imageUrl": "",
       "categories": ["Dream Interpretation"],
+       "categoryKeys": ["dream_interpretation_key"],
       "description": "British psychologist and author known for popularizing dream interpretation techniques.",
       "bioUrl": "Ann Faraday is a British psychologist who helped popularize dream work in the 1970s with her bestselling books \"The Dream Game\" (1974) and \"Dream Power\" (1972). She earned her PhD in psychology from University College London and studied under dream researcher Christopher Evans.\n Faraday's approach made dream interpretation accessible to the general public, combining elements of Freudian, Jungian, and existential psychology with practical techniques for dream recall and analysis. She advocated keeping dream journals and developed step-by-step methods for working with dreams.\n Unlike academic researchers, Faraday emphasized dreams' practical value for self-understanding and personal growth. Her work helped establish dream interpretation as a self-help practice and influenced the development of dream groups and workshops."  
     },
@@ -45,6 +50,7 @@
       "name": "Patricia Garfield",
       "imageUrl": "",
       "categories": ["Dream Interpretation"],
+       "categoryKeys": ["dream_interpretation_key"],
       "description": "American psychologist and author, pioneer in the study of lucid dreaming.",
       "bioUrl": "Patricia Garfield is an American psychologist and author who has specialized in dream research for over 50 years. She co-founded the Association for the Study of Dreams (now the International Association for the Study of Dreams) in 1983.\n Garfield is best known for her pioneering work on lucid dreaming—the awareness that one is dreaming while in the dream state. Her book \"Creative Dreaming\" (1974) was among the first to offer practical techniques for inducing and using lucid dreams for creativity and personal growth.\n Beyond lucid dreaming, Garfield has studied universal dream patterns across cultures, women's dreams throughout the life cycle, and dreams during pregnancy and bereavement. Her approach combines scientific research with personal application, making dream knowledge accessible to non-specialists."  
     },
@@ -53,6 +59,7 @@
       "name": "Jeremy Taylor",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Jeremy_Taylor%2C_Dreamworker.jpg/500px-Jeremy_Taylor%2C_Dreamworker.jpg",
       "categories": ["Dream Interpretation"],
+       "categoryKeys": ["dream_interpretation_key"],
       "description": "American author and dream worker known for projective dream work.",
       "bioUrl": "Jeremy Taylor was an American dreamworker, Unitarian Universalist minister, and author who specialized in group dreamwork. He founded the Dreamwork Institute and the Association for the Study of Dreams (with Patricia Garfield and others).\n Taylor developed \"projective dreamwork,\" an approach based on the premise that all dreams come in the service of health and wholeness, regardless of how difficult or frightening they may seem. His method emphasized that only the dreamer can determine a dream's meaning, with others offering perspectives beginning with \"If it were my dream...\"\n Unlike clinical approaches, Taylor's work focused on dreams' spiritual dimensions and their potential for community building. He conducted dreamwork groups for diverse populations, including prisons, schools, and hospitals, and authored several books including \"The Wisdom of Your Dreams\" and \"Where People Fly and Water Runs Uphill.\""
     },
@@ -61,6 +68,7 @@
       "name": "Ibn Sirin",
       "imageUrl": "",
       "categories": ["Dream Interpretation"],
+       "categoryKeys": ["dream_interpretation_key"],
       "description": "Early Islamic scholar renowned for his work on dream interpretation.",
       "bioUrl": "Muhammad Ibn Sirin was a Muslim mystic, interpreter of dreams, and scholar from Basra (in present-day Iraq) during the early Islamic period. He is renowned as the author of the most famous dream interpretation book in Islamic culture, although many works attributed to him were likely written by later scholars.\n Ibn Sirin's approach to dreams was influenced by both Islamic teachings and pre-Islamic Arabic traditions. He classified dreams into three types: truthful dreams (from Allah), dreams reflecting personal concerns, and false dreams (from Satan).\n His dream interpretation method considered the dreamer's personal circumstances, religious standing, and social position. The \"Dictionary of Dreams\" (Muntakhab al-Kalam fi Tafsir al-Ahlam) attributed to Ibn Sirin remains influential in Islamic culture, with various versions still consulted for dream interpretation"  
     },
@@ -69,6 +77,7 @@
       "name": "Artemidorus",
       "imageUrl": "",
       "categories": ["Dream Interpretation"],
+       "categoryKeys": ["dream_interpretation_key"],
       "description": "Ancient Greek professional diviner and dream interpreter.",
       "bioUrl": "Artemidorus Daldianus was a professional dream interpreter in ancient Greece during the 2nd century CE. His five-volume work \"Oneirocritica\" (The Interpretation of Dreams) is the most comprehensive dream book to survive from antiquity.\n Artemidorus collected dreams and their outcomes from across the Mediterranean world, creating a systematic approach to dream interpretation. He distinguished between enhypnia (ordinary dreams reflecting the dreamer's current concerns) and oneiroi (predictive dreams requiring interpretation).\n His method considered the dreamer's identity, profession, and social status when determining a dream's meaning. While some interpretations reflect ancient cultural biases, many principles of Artemidorus's approach—such as considering context and using association—influenced later dream interpretation traditions in European, Byzantine, and Islamic cultures."  
     },
@@ -77,6 +86,7 @@
       "name": "Marie-Louise von Franz",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Marie_Luise_Von_Franz_in_un_fotograffa_di_%22Quattro_decenni_di_Plays%22_di_Ottavio_Rosati_%28cropped%29.jpg/500px-Marie_Luise_Von_Franz_in_un_fotograffa_di_%22Quattro_decenni_di_Plays%22_di_Ottavio_Rosati_%28cropped%29.jpg",
       "categories": ["Dream Interpretation"],
+       "categoryKeys": ["dream_interpretation_key"],
       "description": "Swiss Jungian psychologist and scholar, known for interpretations of fairy tales.",
       "bioUrl": "Marie-Louise von Franz was a Swiss Jungian psychologist and scholar who worked closely with Carl Jung for over 30 years. After Jung's death, she became one of the leading interpreters of his work, particularly in the areas of dreams, alchemy, fairy tales, and active imagination.\n Von Franz expanded Jung's ideas about dreams, emphasizing their objective meaning and compensatory function. She developed methods for understanding archetypal elements in dreams and their relationship to the individuation process—the psychological journey toward wholeness.\n Her contributions to dream interpretation include detailed analyses of dream series, the role of numbers in dreams, and cross-cultural dream patterns. Her books, including \"Dreams\" and \"On Dreams and Death,\" continue to influence contemporary Jungian dream analysis." 
     },
@@ -85,6 +95,7 @@
       "name": "Pierre Janet",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Photo_of_Pierre_Janet.jpg/500px-Photo_of_Pierre_Janet.jpg",
       "categories": ["Subconscious Exploration"],
+       "categoryKeys": ["subconscious_exploration_key"],
       "description": "French psychologist, philosopher and psychotherapist in the field of dissociation and traumatic memory.",
       "bioUrl": "Pierre Janet was a French psychologist, physician, and philosopher who founded psychological analysis and developed early theories about the subconscious mind. A contemporary of Freud and Jung, Janet established his own approach to understanding the psyche.\n Janet's work on dissociation and traumatic memories influenced later understanding of how trauma affects dreams. He documented how traumatic experiences can return in dream form, introducing concepts that anticipated modern trauma research.\n Although not primarily focused on dreams, Janet's theories about psychological integration and disintegration provided important foundations for understanding how dreams reflect psychological functioning. His concept of \"psychological tension\" and its reduction during sleep relates to later theories about dreams' regulatory functions."  
     },
@@ -93,6 +104,7 @@
       "name": "Erich Fromm",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Erich_Fromm_1974.jpg/500px-Erich_Fromm_1974.jpg",
       "categories": ["Subconscious Exploration"],
+        "categoryKeys": ["subconscious_exploration_key"],
       "description": "German social psychologist, psychoanalyst, sociologist, and humanistic philosopher.",
       "bioUrl": "Erich Fromm was a German social psychologist, psychoanalyst, and philosopher who integrated psychoanalysis with Marxist theory and existential thought. As part of the Frankfurt School and later American humanistic psychology, Fromm developed a socially oriented approach to understanding human nature.\n In his work on dreams, particularly in \"The Forgotten Language\" (1951), Fromm positioned dream interpretation as part of a broader understanding of symbolic language. He distinguished between conventional, accidental, and universal symbols in dreams, emphasizing cultural and social influences.\n Unlike orthodox Freudians, Fromm viewed dreams not primarily as expressions of repressed sexuality but as reflections of the entire person—their fears, hopes, and inner conflicts within a social context. His approach sought to restore the dreamer's capacity for awareness through understanding dream symbolism."
     },
@@ -101,6 +113,7 @@
       "name": "William James",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/William_James_b1842c.jpg/500px-William_James_b1842c.jpg",
       "categories": ["Subconscious Exploration"],
+        "categoryKeys": ["subconscious_exploration_key"],
       "description": "American philosopher, historian, and psychologist, and the first educator to offer a psychology course in the United States.",
       "bioUrl": "William James was an American philosopher, psychologist, and physician who helped establish psychology as an academic discipline in the United States. As Harvard's first psychology professor, James wrote influential works including \"The Principles of Psychology\" (1890).\n Although not primarily a dream researcher, James made significant observations about dream consciousness in his writings on the \"stream of consciousness\" and altered states. He noted how dreams reflect normal psychological processes operating under different conditions.\n James's pragmatic and pluralistic philosophy influenced later psychological approaches to dreams, emphasizing experience over theory. His interest in mystical experiences and the boundaries of consciousness also provided context for understanding extraordinary dream states."  
     },
@@ -109,6 +122,7 @@
       "name": "Milton H. Erickson",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Erickson_college.jpg",
       "categories": ["Subconscious Exploration"],
+        "categoryKeys": ["subconscious_exploration_key"],
       "description": "American psychiatrist and psychologist specializing in medical hypnosis and family therapy.",
       "bioUrl": "Milton H. Erickson was an American psychiatrist specializing in medical hypnosis and family therapy. Known for his innovative approaches to hypnotherapy, Erickson developed unique methods for accessing unconscious resources and facilitating therapeutic change.\n Erickson used techniques similar to dreamwork in his hypnotic approaches, recognizing that both dreams and hypnotic states access unconscious material. He often worked with patients' dreams, not by interpreting them directly but by utilizing the dream material to suggest therapeutic possibilities.\n His naturalistic approach influenced contemporary dream work by demonstrating how dream imagery and narratives can be therapeutically reframed or continued while awake. Modern approaches like Gestalt dreamwork and imagery rehearsal therapy for nightmares share elements with Erickson's methods." 
     },
@@ -117,6 +131,7 @@
       "name": "Karen Horney",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Karen_Horney_1938.jpg",
       "categories": ["Subconscious Exploration"],
+        "categoryKeys": ["subconscious_exploration_key"],
       "description": "German psychoanalyst who practiced in the United States during her later career.",
       "bioUrl": "Karen Horney was a German-American psychoanalyst who challenged Freudian views on female psychology and developed theories emphasizing social and cultural factors in neurosis. As a founder of neo-Freudianism and humanistic psychology, Horney offered important revisions to psychoanalytic thought.\n In her approach to dreams, Horney shifted focus from Freud's emphasis on instinctual wishes to examining how dreams reveal self-perception, relationships, and neurotic trends. She viewed dreams as expressions of the \"real self\" often hidden by neurotic patterns in waking life.\n Horney's concepts of \"moving toward,\" \"moving against,\" and \"moving away from\" others can be observed in dream content, providing insights into the dreamer's interpersonal patterns. Her emphasis on cultural factors also influenced understanding of how social context shapes dream imagery and interpretation."  
     },
@@ -125,6 +140,7 @@
       "name": "Otto Rank",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/Otto_Rank.jpg",
       "categories": ["Subconscious Exploration"],
+        "categoryKeys": ["subconscious_exploration_key"],
       "description": "Austrian psychoanalyst, writer, and teacher.",
       "bioUrl": "Otto Rank was an Austrian psychoanalyst, writer, and teacher who was one of Freud's closest colleagues before breaking with orthodox psychoanalysis. His work focused on creativity, the psychology of artists, and birth trauma.\n Rank contributed to early psychoanalytic dream theory as Freud's assistant and collaborator. He helped publish the second edition of \"The Interpretation of Dreams\" (1909) and developed ideas about the role of creativity in both dreams and art.\n Later in his career, Rank's emphasis on will, consciousness, and the present moment influenced humanistic psychology and existential approaches to dream interpretation. His concept of the \"birth trauma\" suggested that difficult dreams may symbolically recreate the trauma of birth and separation."  
     }
@@ -135,6 +151,7 @@
       "name": "Greek Mythology",
       "imageUrl": "https://via.placeholder.com/150/3498DB/FFFFFF?text=Greek",
       "mythologyKey": "Greek",
+      "categoryKeys": ["mythological_interpretation"],
       "infoUrl": "Greek mythology features the Oneiroi, winged dream spirits who were the children of Nyx (Night) and siblings of Hypnos (Sleep). Morpheus, who could appear in human form in dreams, was their leader. Greeks believed dreams could be prophetic messages from the gods or deceptive illusions, with true dreams passing through gates of horn and false dreams through gates of ivory. Dream interpretation was practiced at healing sanctuaries called Asclepeions, where dream incubation rituals helped seekers receive divine guidance for healing and spiritual insight." 
     },
     {
@@ -142,6 +159,7 @@
       "name": "Roman Mythology",
       "imageUrl": "https://via.placeholder.com/150/E74C3C/FFFFFF?text=Roman",
       "mythologyKey": "Roman",
+      "categoryKeys": ["mythological_interpretation"],
       "infoUrl": "Roman dream theology centered around Somnus (Sleep), who fathered the Somnia or \"dream shapes.\" His most notable sons were Morpheus (who shaped human forms in dreams), Phobetor/Icelos (who created animal forms), and Phantasos (who crafted dreams of inanimate objects). Romans practiced dream incubation at temples and employed professional dream interpreters called coniectores. Dreams were considered potential messages from the gods or omens of future events, with interpretation manuals guiding Romans in understanding their subconscious visions and their implications for waking life."  
     },
     {
@@ -149,6 +167,7 @@
       "name": "Egyptian Mythology",
       "imageUrl": "https://via.placeholder.com/150/F1C40F/000000?text=Egyptian",
       "mythologyKey": "Egyptian",
+        "categoryKeys": ["mythological_interpretation"],
       "infoUrl": "Ancient Egyptians viewed dreams as a liminal space between the world of the living and the divine realm. While they had no specific dream deity, gods like Serapis were known to send healing visions during temple sleep rituals. Dream books like the Chester Beatty Papyrus categorized dreams and their meanings, showing their sophisticated approach to interpreting the subconscious. Egyptians believed the ba (soul) could travel during sleep, and dreams could contain messages from the gods or deceased ancestors, offering guidance, warnings, or prophetic visions about future events."
     },
     {
@@ -156,6 +175,7 @@
       "name": "Norse Mythology",
       "imageUrl": "https://via.placeholder.com/150/2ECC71/FFFFFF?text=Norse",
       "mythologyKey": "Norse",
+        "categoryKeys": ["mythological_interpretation"],
       "infoUrl": "Norse people took dreams seriously as potential glimpses into fate. While they had no specific dream deity, figures like Nótt (Night) and the mysterious Niorun have been associated with dreams in later interpretations. Dreams were classified as either meaningful visions or meaningless \"dream-nonsense.\" Significant dreams often appeared in sagas as prophetic, such as Balder's dream of his own death. Norse shamanic practices incorporated dream-like trance states where practitioners believed they could journey between worlds and communicate with spirits, exploring the deeper layers of consciousness."  
     },
     {
@@ -163,6 +183,7 @@
       "name": "Turkic Mythology",  
       "imageUrl": "https://via.placeholder.com/150/9B59B6/FFFFFF?text=Turkic",
       "mythologyKey": "Turkish",  
+        "categoryKeys": ["mythological_interpretation"],
       "infoUrl": "In Turkish mythology, dreams connected the physical world with the spiritual realm. The goddess Umay was believed to send protective dream spirits to humans. Shamans (kam) used dreams and trance states to communicate with spirits across the three-tiered cosmos (upper world, middle world, and underworld). Fertility goddess Umay was associated with sending dream spirits, while negative dream experiences were often attributed to Basty, a spirit that would sit on sleepers' chests causing nightmares. Dreams played an important role in Turkic shamanic practices as a means of accessing divine knowledge and spiritual guidance."  
     }
   ]
